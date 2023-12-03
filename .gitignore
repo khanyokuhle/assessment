@@ -1,0 +1,6 @@
+# OS junk files
+.DS_Store
+
+# Cypress files and folders
+cypress/downloads
+cypress/reports
