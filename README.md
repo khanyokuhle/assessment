@@ -6,3 +6,7 @@ QA web and api assessment
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+- First item
+- Second item
+- Third item
