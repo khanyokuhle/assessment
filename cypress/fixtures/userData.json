@@ -1,0 +1,21 @@
+[
+  {
+    "first_name": "Chumz", 
+    "last_name": "Phelz", 
+    "password": "Password1", 
+    "customer": "AAA", 
+    "role": "Admin", 
+    "email": "chumz.phelz@mail.com", 
+    "cell": "0811234567"
+  },
+  {
+    "first_name": "Amza", 
+    "last_name": "Tita", 
+    "password": "Password@", 
+    "customer": "BBB", 
+    "role": "Customer", 
+    "email": "amza.tita@mail.com", 
+    "cell": "0711234567"
+  }
+]
+
