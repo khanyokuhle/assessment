@@ -1,13 +1,14 @@
-# assessment
-QA web and api assessment
+# Assessment
+This repository consist of web and api tasks for an assessment.
 
-[Postman Collection](https://www.postman.com/busimakunga/workspace/petstore/collection/27404455-26d2d82e-0b52-4fc1-b661-2fb9b1dd012b?action=share&creator=27404455)
+## Task 1 - API
+The API task was implemented in Postman.
+[Postman Collection](https://www.postman.com/busimakunga/workspace/dog-collection/collection/27404455-fc39e964-90ee-41bb-abac-8d20c95a0120?action=share&creator=27404455)
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+## Task 2 - Web
+The web task was implemented in Cypress.
 
-- First item
-- Second item
-- Third item
-```codeed number```
+Running the tests:
+- ensure that node is installed
+- to run the tests in a headless mode: ```npx cypress run``` 
+- to run the tests in a headed mode: ```npx cypress open```
